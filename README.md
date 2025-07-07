@@ -23,13 +23,16 @@ Built using **Keras** and **TensorFlow** in **Google Colab**, this project loads
 ---
 
 ## 📁 Files Included
-| File Name        | Description                              |
-|------------------|------------------------------------------|
-| `keras_model.h5` | The exported Keras model from Teachable Machine |
-| `labels.txt`     | List of class names used during training |
-| `predict_image.py` or `.ipynb` | The script to load and run predictions |
-| `a3.jpg`         | Sample image used for testing the model  |
-| `output.png` | Example output of the working model      |
+
+| File Name               | Description                                        |
+|-------------------------|----------------------------------------------------|
+| `keras_model.h5`        | The exported Keras model from Teachable Machine   |
+| `labels.txt`            | List of class names used during training          |
+| `predict_image.py` | The script to load and run predictions       |
+| `output.png`        | Google Colab output showing prediction result     |
+| `output2.png`           | Screenshot of the model setup in Teachable Machine |
+
+
 
 ---
 
@@ -51,3 +54,8 @@ Built using **Keras** and **TensorFlow** in **Google Colab**, this project loads
 ## 🖼️ Sample Output
 
 ![Screenshot](output.png)
+
+
+### 🔹 Training Preview from Teachable Machine
+
+![Teachable Machine Preview](output2.png)
